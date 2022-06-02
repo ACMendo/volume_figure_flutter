@@ -21,7 +21,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Volumen de un Rectángulo'),
+        title: const Text('Volumen de un Prisma Rectangular'),
         elevation: 5,
       ),
       body: Padding(
